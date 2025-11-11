@@ -51,7 +51,7 @@ A comprehensive guide on how to get started using the OoT Randomizer online gene
 
 ### Basic Movement Theory
 
-[Basic Movement Theory](./Basic_Movement_Theory)
+[Basic Movement Theory](./Basic_Movement_Theory.md)
 
 ### Finding your Comfort Level
 
