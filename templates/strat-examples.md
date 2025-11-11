@@ -9,13 +9,20 @@ Not only is this useful if you want to avoid rotating the first hallway multiple
 
 #### Strat-Stats
 
-|------------|----------|
-| Difficulty | easy     |
-|------------|----------|
-| Usefulness | medium   |
-|------------|----------|
-| Logic      | required |
-|------------|----------| 
+<table>
+  <tr>
+    <td>Difficulty</td>
+    <td>easy</td>
+  </tr>
+  <tr>
+    <td>Usefulness</td>
+    <td>medium</td>
+  </tr>
+  <tr>
+    <td>Logic</td>
+    <td>required</td>
+  </tr>
+</table>
 
 #### Resources & Videos
 
@@ -28,13 +35,20 @@ It is possible to jump over the fence next to King Zora as an adult, thus avoidi
 
 #### Strat-Stats
 
-|------------|----------------------------|
-| Difficulty | easy                       |
-|------------|----------------------------|
-| Usefulness | high                       |
-|------------|----------------------------|
-| Logic      | sequence-break / item-skip |
-|------------|----------------------------| 
+<table>
+  <tr>
+    <td>Difficulty</td>
+    <td>easy</td>
+  </tr>
+  <tr>
+    <td>Usefulness</td>
+    <td>high</td>
+  </tr>
+  <tr>
+    <td>Logic</td>
+    <td>sequence-break / item-skip</td>
+  </tr>
+</table>
 
 #### Resources & Videos
 
