@@ -1,0 +1,14 @@
+### OoT Randomizer
+You are, in principle, not required to be a part of the community. However, it can be a great help and experience and knowledge from other players are valuable. As such it is highly recommended to join the #fixme-discord Ocarina of Time Randomizer Discord. The community there can help with any kind of issues you might encounter, from emulator problems to the meaning of randomizer settings and how to execute certain tricks.
+
+#### Scrubs Central
+If you're searching for a community that's especially tailored for beginners and hosts the entry level tournament: #fixme-discord Scrubs Central. There are a lot of people here that look to help new or re-emerging players no matter if or if not they want to participate in tournaments. It has its own twitch channel #fixme-twitch where Tournaments and races are being re-streamed with commentary.
+
+### OoT Speedrunning
+This community #fixme-discord is mainly tailored to non-randomizer speedrunning and as such has many different resources including a lot of glitched strategies that do not apply to the "OoT Randomizer Standard Ruleset" so while it can be difficult to find the right categories and places to search, it is a very valuable resource if you're looking for different kinds of speed strategies and tricks. If you are unsure what the right place is to search what you're looking for don't hesitate to ask there, too.
+
+### ZeldaSpeedRuns
+This Discord server #fixme-discord revolves around the re-streaming of tournaments which includes all games of the Zelda franchise. For Ocarina of Time Randomizer especially the so called "Main Tournament" is hosted here, where all the best runners compete for the top. If you're looking for Information on which races are being streamed on the largest of the involved twitch channels #fixme-twitch this is one of your places to go. What you will also find here are references to the various language-tailored servers and channels, for example French or German sub-communities.
+
+### The Silver Gauntlets
+This community #fixme-discord is kind of a spin-off from the main ZeldaSpeedRuns, mainly hosting the so called "Challenge Cup" tournament which resides on a skill level between Scrubs and Main tournament. They also run a twitch channel #fixme-twitch on which those races are re-streamed.
