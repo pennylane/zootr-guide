@@ -43,13 +43,19 @@ A comprehensive guide on how to get started using the OoT Randomizer online gene
 
 ### Headspace & Environment
 
+[Headspace & Environment](./Environment.md)
+
 ### Training Resources
+
+[Training Resources](./Training_Resources.md)
 
 ### Basic Movement Theory
 
 [Basic Movement Theory](./Basic_Movement_Theory)
 
 ### Finding your Comfort Level
+
+[Comfort Level](./Comfort.md)
 
 
 ## Part 4: Routing
