@@ -7,13 +7,20 @@ A short description of what the strat does, what it's for and where/why it's use
 
 #### Strat-Stats
 
-|------------|------------------------------------------------|
-| Difficulty | [easy|medium|hard|insane]                      |
-|------------|------------------------------------------------|
-| Usefulness | [high|medium|low]                              |
-|------------|------------------------------------------------|
-| Logic      | [required|low-impact|sequence break|item skip] |
-|------------|------------------------------------------------| 
+<table>
+  <tr>
+    <td>Difficulty</td>
+    <td>[easy|medium|hard|insane]</td>
+  </tr>
+  <tr>
+    <td>Usefulness</td>
+    <td>[high|medium|low</td>
+  </tr>
+  <tr>
+    <td>Logic</td>
+    <td>[required|low-impact|sequence break|item skip]</td>
+  </tr>
+</table>
 
 #### Resources & Videos
 
