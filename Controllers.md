@@ -1,3 +1,5 @@
+# Controllers
+
 If you are planning to spend considerable amount of time on the OoT Randomizer, your controller will be your new best friend. But even if you're only planning to play on occasion and/or very casually, the choice of controller matters greatly.
 
 Even if you're a casual player, at some point you will want to learn some tricks nontheless, some more difficult than others and most requiring precise inputs and movement patterns that are not usually required when casually playing games. See [[Basic Movement Theory]] for more information on the topic.

@@ -1,4 +1,6 @@
-This resource is supposed to help new players getting started on the Ocarina of Time Randomzier and provide an overview on where to get started. It is not supposed to duplicate resources found elsewhere but instead reference pre-existing works and make it easier to find what you search for.
+# A (Beginner's) Guide to Zelda Ocarina of Time Randomizer
+
+This resource is supposed to help new players getting started on the [https://ootrandomizer.com](Ocarina of Time Randomzier) and provide an overview on where to get started. It is not supposed to duplicate resources found elsewhere but instead reference pre-existing works and make it easier to find what you search for.
 
 ## Part 1: Finding your base
 

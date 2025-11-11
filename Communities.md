@@ -1,3 +1,7 @@
+# Communities
+
+This section provides a short overview on the available communities. Please be aware that this list is not extensive. It is designed to provide a starting point from which you can explore the communities and you will most certainly find more servers and communities to join from there, if you wish to do so.
+
 ### OoT Randomizer
 You are, in principle, not required to be a part of the community. However, it can be a great help and experience and knowledge from other players are valuable. As such it is highly recommended to join the #fixme-discord Ocarina of Time Randomizer Discord. The community there can help with any kind of issues you might encounter, from emulator problems to the meaning of randomizer settings and how to execute certain tricks.
 

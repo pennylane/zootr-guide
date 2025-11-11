@@ -1,3 +1,7 @@
+# Emulators and Platforms
+
+This section is dedicated to helping you find the resources available to play and making an informed choice on which is the best for your personal playstyle.
+
 ## Acquisition of the Base Rom
 
 For every possible setup variation - no matter if you're going to play on emulator, virtual console or otherwise - the base rom is a necessary requirement. However, this is strictly copyrighted, so the only legal method to obtain such a rom is to own the correct game cartridge and dump the image to a virtual backup copy which you are allowed to create of your own property.
