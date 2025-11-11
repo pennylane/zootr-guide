@@ -10,9 +10,9 @@ As such, please refrain from asking people to send you such files, because all t
 
 ## Choice of Platform / Emulator
 
-The list of Emulators in the [[https://wiki.ootrandomizer.com/index.php?title=Setup#Emulators|ootrandomizer.com Wiki]] contains links to their respective concise setup guides, tailored directly at their usage as platform for OoTR.
+The list of Emulators in the [ootrandomizer.com Wiki](https://wiki.ootrandomizer.com/index.php?title=Setup#Emulators) contains links to their respective concise setup guides, tailored directly at their usage as platform for OoTR.
 
-Setup guides for the Wii(U) Virtual console can also be found in the [[https://wiki.ootrandomizer.com/index.php?title=Setup#Wii_Virtual_Console|ootrandomizer.com Wiki]].
+Setup guides for the Wii(U) Virtual console can also be found in the [ootrandomizer.com Wiki](https://wiki.ootrandomizer.com/index.php?title=Setup#Wii_Virtual_Console).
 
 There are, however, several factors that (should) influence your choice of game environment:
 
@@ -28,7 +28,7 @@ Playing on a large console requires you to be at home to play or at least result
 
 Some emulators only run on Windows, others also on Mac and Linux systems or even Android and iOS. 
 
-A list of Emulators, their supported platforms is available in the [[https://wiki.ootrandomizer.com/index.php?title=Setup#Emulators|ootrandomizer.com Wiki]]
+A list of Emulators, their supported platforms is available in the [ootrandomizer.com Wiki](https://wiki.ootrandomizer.com/index.php?title=Setup#Emulators).
 
 
 ### Choice of Controller
@@ -45,14 +45,14 @@ Keep in mind that Ocarina of Time is a game that was originally released in 1998
 
 If you don't care about racing and want to enjoy the game with the highest possible visual fidelity and utilize mods like high resolution texture packs, lighting reworks or high resolution assets the OoT Randomizer might not be your platform of choice. 
 
-Try taking a look at [[https://www.shipofharkinian.com|Ship of Harkinian]] or [[https://modloader64.com|modloader64]]. Please keep in mind though, that these come with their own randomizer engines and are not the same as the OoT Randomizer. As such you will find no in-depth resources here. You will, however, find similar suitable resources in their respective communities #fixme-discord #fixme-discord 
+Try taking a look at [Ship of Harkinian](https://www.shipofharkinian.com) or [ModLoader64](https://modloader64.com). Please keep in mind though, that these come with their own randomizer engines and are not the same as the OoT Randomizer. As such you will find no in-depth resources here. You will, however, find similar suitable resources in their respective communities: [Ship of Harkinian Discord](https://discord.com/invite/shipofharkinian) & [ModLoader64 on Discord](https://discord.gg/nHb4fXX).
 
 
 ### Multiworld Participation
 
 Some mods allow the playing of so called "Multiworlds". These are game variations in which you play with friends in a way where each player has their own world and inventory, but items you find are either for yourself or a friend.
 
-Due to the complex nature of this mod, the possible platforms are severely more limited than for all other randomizer play. More details on setup and allowed platforms can be found in the [[https://wiki.ootrandomizer.com/index.php?title=Multiworld|ootrandomizer.com Wiki]].
+Due to the complex nature of this mod, the possible platforms are severely more limited than for all other randomizer play. More details on setup and allowed platforms can be found in the [ootrandomizer.com Wiki](https://wiki.ootrandomizer.com/index.php?title=Multiworld).
 
 
 
