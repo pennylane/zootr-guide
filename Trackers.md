@@ -2,7 +2,7 @@
 
 Successful completion of an OoT Randomizer run usually means you will have to search a lot of locations and find items to fill your inventory and successfully complete dungeons. We call these locations where these important items (or chests containing them) can be found "checks".
 
-To keep track of the items as well as the locations and maybe even additional information, it can be highly beneficial to utilize a tracker software. The [[https://wiki.ootrandomizer.com/index.php?title=Trackers|ootrandomizer.com Wiki]] lists all the trackers currently known to the community together with screenshots and links to their respective sources.
+To keep track of the items as well as the locations and maybe even additional information, it can be highly beneficial to utilize a tracker software. The [ootrandomizer.com Wiki](https://wiki.ootrandomizer.com/index.php?title=Trackers) lists all the trackers currently known to the community together with screenshots and links to their respective sources.
 
 A short overview of the possible types of trackers is posted here, together with a short hint on the benefits of the type to help with the selection. 
 
