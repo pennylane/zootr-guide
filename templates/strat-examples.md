@@ -52,5 +52,6 @@ It is possible to jump over the fence next to King Zora as an adult, thus avoidi
 
 #### Resources & Videos
 
+- [StratDB](https://www.stratdb.app/search?game=1&variantGroup=3da35165-a73e-411e-9037-76d617b03759)
 - [Zelda OoTR Beginner Tricks: Glitchless King Zora Skip by lolaway on Youtube](https://www.youtube.com/watch?v=M20PFDLAYfk)
 
