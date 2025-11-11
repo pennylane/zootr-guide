@@ -64,7 +64,7 @@ If your controller doesn't come with a calibration tool then your possibilities 
 
 If you are struggling with movements I sincerely suggest to invest in a controller that can be calibrated to your needs and comfort level. Adjusting curves to more aggressive or more relaxed ones that not simply restrict the available movement like deadzone does, but ramp them up or down on a curve providing for slower responses in the lighter movements and better control over slow movement. Most modern controllers can also store profiles locally so you can switch them with a single button. Let them laugh because they think you're overcomplicating things if you need separate controller profiles for doing tricks or doing shooting galleries and welcome to the club. If it works for you then it's the right thing to do.
 
-Additional info on controller calibration for certain platforms and controllers can also be found in the [[https://wiki.ootrandomizer.com/index.php?title=Controller_Setup|ootrandomizer.com Wiki]].
+Additional info on controller calibration for certain platforms and controllers can also be found in the [ootrandomizer.com Wiki](https://wiki.ootrandomizer.com/index.php?title=Controller_Setup).
 ### Button Mapping for Emulators
 
 I stressed make it right _for you_ before already but I will stress it even more here: Make your emulator behave in a way that fits you personally.
