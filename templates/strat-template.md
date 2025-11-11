@@ -14,7 +14,7 @@ A short description of what the strat does, what it's for and where/why it's use
   </tr>
   <tr>
     <td>Usefulness</td>
-    <td>[high|medium|low</td>
+    <td>[high|medium|low|show-off]</td>
   </tr>
   <tr>
     <td>Logic</td>
