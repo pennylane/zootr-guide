@@ -17,7 +17,7 @@ All are valid approaches but might influence where you find the most valuable re
 
 There are several [Communities](./Communities.md) built around OoT and its randomizers. It is not required to join them to be able to play and enjoy the Ocarina of Time Randomizer, but there are a lot of people always willing and enjoying to help new or re-emerging players. So if you are searching for resources or have questions, you're very much invited to drop in there and be helped.
 
-Running tournament races and sometimes friendly races are re-streamed on their respective twitch channels, which can also be found under [[Communities]]. Even if you have no interest in running in those races yourself, the races are always re-streamed live with a commentary and the commentators do their best to explain what's happening on screen. More often than not, questions about what you see posted in twitch chat will be answered by them live and on screen. If the commentators cannot answer the question or it is better explained in a video, other participants in the twitch chat will happily provide links to clips or instructional videos.
+Running tournament races and sometimes friendly races are re-streamed on their respective twitch channels, which can also be found under [Communities](./Communities.md). Even if you have no interest in running in those races yourself, the races are always re-streamed live with a commentary and the commentators do their best to explain what's happening on screen. More often than not, questions about what you see posted in twitch chat will be answered by them live and on screen. If the commentators cannot answer the question or it is better explained in a video, other participants in the twitch chat will happily provide links to clips or instructional videos.
 
 ## Part 2: Tech Stack
 
@@ -27,15 +27,15 @@ See sub-page [Emulators & Platforms](./Emulators_and_Platforms.md) for more deta
 
 ### Controller Choice & Calibration
 
-See sub-page [[Controllers]] for more info.
+See sub-page [Controllers](./Controllers.md) for more info.
 
 ### Choosing a Tracker
 
-See sub-page [[Trackers]] for more info.
+See sub-page [Trackers](./Trackers.md) for more info.
 
 ### Basic Seed Building
 
-A comprehensive guide on how to get started using the OoT Randomizer online generator can be found in the [[https://wiki.ootrandomizer.com/index.php?title=Setup#Online_Generator|ootrandomizer.com Wiki]]. It even has a full comprehensive video tutorial and will always be kept up to date with the current version. Check it out there!
+A comprehensive guide on how to get started using the OoT Randomizer online generator can be found in the [ootrandomizer.com Wiki](https://wiki.ootrandomizer.com/index.php?title=Setup#Online_Generator). It even has a full comprehensive video tutorial and will always be kept up to date with the current version. Check it out there!
 
 
 
@@ -47,7 +47,7 @@ A comprehensive guide on how to get started using the OoT Randomizer online gene
 
 ### Basic Movement Theory
 
-[[Basic Movement Theory]]
+[ootrandomizer.com Wiki](./Basic_Movement_Theory)
 
 ### Finding your Comfort Level
 
