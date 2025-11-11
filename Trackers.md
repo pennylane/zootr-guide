@@ -33,9 +33,9 @@ If you play with overworld, grotto or interior entrance randomizer and don't wan
 
 ### Auto Trackers
 
-#fixme-knowledge
+FIXME missing knowledge
 
 
 ### Logic Trackers
 
-#fixme-knowledge 
+FIXME missing knowledge
